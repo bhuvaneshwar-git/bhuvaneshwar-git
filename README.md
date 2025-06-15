@@ -1,14 +1,14 @@
 ## Hello everyone👋 , This is Bhuvaneshwar
-- I am Final year student studying Btech IT speclization in cyber security.
+Final year student 
+- Pursuing degree in Btech IT (cyber security) at <a href="spiher.ac.in/"><img width="150" height="30" src="https://spiher.ac.in/wp-content/themes/spiher19/img/spiher-logo.svg" alt="spiher" href="spiher.ac.in"/></a> .
 - My aspiration is to become Penetration tester.
 - I'm currently learning and developing a project using javascript and docker.
-     
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/bhuvaneshwar26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhuvaneshwarg316@gmail.com) 
+- social link:
+  <br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvaneshwarg26/)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
+#  Tech Stack:
+<img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/100/javascript--v1.png" alt="javascript--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/50/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/50/css3.png" alt="css3"/> <img width="50" height="50" src="https://img.icons8.com/color/50/parrot-security--v1.png" alt="parrot-security--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/50/kali-linux.png" alt="kali-linux"/> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-docker-a-set-of-coupled-software-as-a-service-logo-shadow-tal-revivo.png" alt="external-docker-a-set-of-coupled-software-as-a-service-logo-shadow-tal-revivo"/>
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bhuvaneshwar-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bhuvaneshwar-git&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshwar-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhuvaneshwar-git&theme=github-compact)](https://github.com/bhuvaneshwar-git/github-readme-activity-graph)
