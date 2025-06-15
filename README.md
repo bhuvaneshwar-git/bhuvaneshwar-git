@@ -1,6 +1,6 @@
 ## Hello everyone👋 , This is Bhuvaneshwar
 Final year student 
-- Pursuing degree in Btech IT (cyber security) at <a href="spiher.ac.in/"><img width="150" height="30" src="https://spiher.ac.in/wp-content/themes/spiher19/img/spiher-logo.svg" alt="spiher" href="spiher.ac.in"/></a> .
+- Pursuing degree in Btech IT (cyber security) at <a href="https://spiher.ac.in/"><img width="150" height="30" src="https://spiher.ac.in/wp-content/themes/spiher19/img/spiher-logo.svg" alt="spiher" href="spiher.ac.in"/></a> .
 - My aspiration is to become Penetration tester.
 - I'm currently learning and developing a project using javascript and docker.
 - social link:
