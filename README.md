@@ -1,6 +1,6 @@
 ## Hello everyone👋 , This is Bhuvaneshwar
 Final year student 
-- Pursuing degree in Btech IT (cyber security) at <a href="https://spiher.ac.in/"><img width="150" height="30" src="https://spiher.ac.in/wp-content/themes/spiher19/img/spiher-logo.svg" alt="spiher" href="spiher.ac.in"/></a> .
+- Engineering student at  <a href="https://spiher.ac.in/"><img width="150" height="30" src="https://spiher.ac.in/wp-content/themes/spiher19/img/spiher-logo.svg" alt="spiher" href="spiher.ac.in"/></a> .
 - I'm expertise in web pentesting and ethical hacking.
 - I'm currently developing a project using javascript and docker.
 - social link:
