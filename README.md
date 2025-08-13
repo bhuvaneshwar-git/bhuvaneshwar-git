@@ -1,10 +1,10 @@
 ## Hi There👋 , This is Bhuvaneshwar
-Final year student 
+### Final year student 
 - Engineering student at  <a href="https://spiher.ac.in/"><img width="150" height="30" src="https://spiher.ac.in/wp-content/themes/spiher19/img/spiher-logo.svg" alt="spiher" href="spiher.ac.in"/></a> .
 - I'm expertise in web pentesting and ethical hacking.
 - I'm currently developing a project using javascript and docker.
 - social link:
-  <br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvaneshwarg26/)
+  <br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.linkedin.com/in/bhuvaneshwarg26/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1281259741661888534)
 
 
