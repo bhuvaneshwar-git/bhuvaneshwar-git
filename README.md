@@ -7,7 +7,7 @@
   <br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.linkedin.com/in/bhuvaneshwarg26/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1281259741661888534)
 
-![](https://komarev.com/ghpvc/?username=bhuvaneshwar-git&color=green)
+![](https://komarev.com/ghpvc/?username=bhuvaneshwar-git&style=for-the-badge)
 
 
 #  Tech Stack:
