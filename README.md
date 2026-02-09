@@ -15,7 +15,7 @@
 #  GitHub Stats:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuvaneshwar-git&show_icons=true&theme=highcontrast)<br/> -->
 
-![](https://nirzak-streak-stats.vercel.app/?user=bhuvaneshwar-git&theme=highcontrast&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bhuvaneshwar-git&theme=highcontrast)](https://git.io/streak-stats)<br/>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhuvaneshwar-git&theme=github-compact)](https://github.com/bhuvaneshwar-git/github-readme-activity-graph)
